@@ -26,6 +26,7 @@ vignettes/*.pdf
 
 #secrets
 /secrets/
+*@gmail.com
 
 # Temporary files created by R markdown
 *.utf8.md
