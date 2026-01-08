@@ -40,3 +40,4 @@ rsconnect/
 
 # googledrive desktop
 *desktop.ini
+.Rproj.user
